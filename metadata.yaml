@@ -1,5 +1,5 @@
 _repo: The-Travels-of-Marco-Polo---Volume-2_12410
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Yule, Henry, Sir
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '5823'
     url: http://www.gutenberg.org/2009/agents/5823
     wikipedia: http://en.wikipedia.org/wiki/Henry_Yule
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Polo, Marco
@@ -42,6 +45,8 @@ description: "Book of the Marvels of the World (French: Livre des Merveilles du 
   \ of Polo's account, and that the book is, \"in essence, authentic, and, when used\
   \ with care, in broad terms to be trusted as a serious though obviously not always\
   \ final, witness.\"\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12410#The-Travels-of-Marco-Polo---Volume-2
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
